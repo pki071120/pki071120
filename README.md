@@ -1,5 +1,7 @@
 ### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=egg&color=aqua&height=50px&section=header&text=파악경일&fontSize=32px" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pki071120)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **pki071120/pki071120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
