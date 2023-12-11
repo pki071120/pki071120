@@ -1,5 +1,7 @@
-### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=egg&color=aqua&height=50px&section=header&text=파악경일&fontSize=32px" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=00ffff&height=50&section=header&text=파악경일&fontSize=160" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=00ffff&height=50&section=footer&text=파악경일&fontSize=160" />
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pki071120)](https://github.com/anuraghazra/github-readme-stats)
 <!--
